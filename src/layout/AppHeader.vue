@@ -1,13 +1,13 @@
 <template>
     <header class="header-global">
         <base-nav class="navbar-main" transparent type="" effect="light" expand>
-            <div slot="brand" class="navbar-brand mr-lg-5" to="/">
-                <span class="navbar-brand">MK Kim</span>
+            <div slot="brand" to="/">
+                <img src="../../public/img/brand/logo.png" height="80" alt="">
             </div>
 
             <ul class="navbar-nav align-items-lg-center ml-lg-auto">
                 <li class="nav-item d-none d-lg-block ml-lg-4">
-                    <a href="https://www.creative-tim.com/product/vue-argon-design-system" target="_blank" rel="noopener"
+                    <a href="/files/mkkim-resume.pdf" download
                        class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon">
                   <i class="fa fa-cloud-download mr-2"></i>
