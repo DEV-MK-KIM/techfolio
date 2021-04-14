@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "228d21248ef64cd1d408",
+    "revision": "64d6486e0a5add3b1213",
     "url": "/techfolio/css/app.3c585276.css"
   },
   {
-    "revision": "228d21248ef64cd1d408",
-    "url": "/techfolio/js/app.84b91ae6.js"
+    "revision": "64d6486e0a5add3b1213",
+    "url": "/techfolio/js/app.a88f91b3.js"
   },
   {
     "revision": "cc854dcbc2797e9a1b86",
@@ -24,6 +24,26 @@ self.__precacheManifest = [
     "url": "/techfolio/js/chunk-vendors.5d137eb2.js"
   },
   {
+    "revision": "f7ab02d6c22d9bbff6697fb0d4b0f1c9",
+    "url": "/techfolio/img/blockchain.f7ab02d6.jpeg"
+  },
+  {
+    "revision": "866a0054ee561e73fe1878ef877379b7",
+    "url": "/techfolio/img/profile.866a0054.jpeg"
+  },
+  {
+    "revision": "c87ed66aa05b345f9d1084a66a4801c9",
+    "url": "/techfolio/img/logo.c87ed66a.png"
+  },
+  {
+    "revision": "54f8c75e4a8ddb9339eb8f45881d07c3",
+    "url": "/techfolio/img/mealapp.54f8c75e.jpeg"
+  },
+  {
+    "revision": "95332cec7e43711fed2488f2480a2929",
+    "url": "/techfolio/img/decko.95332cec.png"
+  },
+  {
     "revision": "c1733565b32b585676302d4233c39da8",
     "url": "/techfolio/fonts/nucleo-icons.c1733565.eot"
   },
@@ -32,12 +52,12 @@ self.__precacheManifest = [
     "url": "/techfolio/fonts/nucleo-icons.42643978.woff2"
   },
   {
-    "revision": "2569aaea6eaaf8cd210db7f2fa016743",
-    "url": "/techfolio/fonts/nucleo-icons.2569aaea.woff"
-  },
-  {
     "revision": "f82ec6ba2dc4181db2af35c499462840",
     "url": "/techfolio/fonts/nucleo-icons.f82ec6ba.ttf"
+  },
+  {
+    "revision": "2569aaea6eaaf8cd210db7f2fa016743",
+    "url": "/techfolio/fonts/nucleo-icons.2569aaea.woff"
   },
   {
     "revision": "0b8a30b10cbe7708d5f3a4b007c1d665",
@@ -48,6 +68,10 @@ self.__precacheManifest = [
     "url": "/techfolio/fonts/fontawesome-webfont.674f50d2.eot"
   },
   {
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "/techfolio/fonts/fontawesome-webfont.b06871f2.ttf"
+  },
+  {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/techfolio/fonts/fontawesome-webfont.fee66e71.woff"
   },
@@ -56,32 +80,40 @@ self.__precacheManifest = [
     "url": "/techfolio/fonts/fontawesome-webfont.af7ae505.woff2"
   },
   {
-    "revision": "b06871f281fee6b241d60582ae9369b9",
-    "url": "/techfolio/fonts/fontawesome-webfont.b06871f2.ttf"
-  },
-  {
     "revision": "912ec66d7572ff821749319396470bde",
     "url": "/techfolio/img/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "f3cea4ce15282faabb73e28fb01484b1",
+    "revision": "e6ba45527289fdbd41dbff5381d7bc44",
+    "url": "/techfolio/img/geoninja.e6ba4552.png"
+  },
+  {
+    "revision": "f81b0168e44c1f47414559463b96e225",
     "url": "/techfolio/index.html"
   },
   {
-    "revision": "185288d13ed8e9d745bd279ea34667bf",
-    "url": "/techfolio/img/brand/blue.png"
+    "revision": "c87ed66aa05b345f9d1084a66a4801c9",
+    "url": "/techfolio/img/brand/logo.png"
   },
   {
     "revision": "b9949387c6179e2dc4c675134a7b7935",
     "url": "/techfolio/favicon.png"
   },
   {
+    "revision": "b9949387c6179e2dc4c675134a7b7935",
+    "url": "/techfolio/img/brand/favicon.png"
+  },
+  {
+    "revision": "185288d13ed8e9d745bd279ea34667bf",
+    "url": "/techfolio/img/brand/blue.png"
+  },
+  {
     "revision": "c85c75275c0a0a617f9e5accc2700908",
     "url": "/techfolio/img/brand/creativetim-white-slim.png"
   },
   {
-    "revision": "b9949387c6179e2dc4c675134a7b7935",
-    "url": "/techfolio/img/brand/favicon.png"
+    "revision": "b761a205e2bfebb85470d07ef4896326",
+    "url": "/techfolio/files/mkkim-resume.pdf"
   },
   {
     "revision": "8e55eab46b5fcfc4a7a0b27cb07c8888",
@@ -96,8 +128,16 @@ self.__precacheManifest = [
     "url": "/techfolio/img/ill/ill-2.svg"
   },
   {
+    "revision": "7789b5bfa57722dd8916b1b9ff1b1d37",
+    "url": "/techfolio/img/theme/img-2-1200x1000.jpg"
+  },
+  {
     "revision": "fd4a34d026fb9e0f4867188d47b11ba8",
     "url": "/techfolio/img/theme/img-1-1200x1000.jpg"
+  },
+  {
+    "revision": "dc49ad52655e1d9d0552c026db3ef688",
+    "url": "/techfolio/img/theme/landing.jpg"
   },
   {
     "revision": "20d702b83a06bdb2ea71c4c0cb9a7a56",
@@ -112,12 +152,8 @@ self.__precacheManifest = [
     "url": "/techfolio/img/theme/team-1-800x800.jpg"
   },
   {
-    "revision": "7789b5bfa57722dd8916b1b9ff1b1d37",
-    "url": "/techfolio/img/theme/img-2-1200x1000.jpg"
-  },
-  {
-    "revision": "dc49ad52655e1d9d0552c026db3ef688",
-    "url": "/techfolio/img/theme/landing.jpg"
+    "revision": "be997d5226b992ffad34816870c6b7aa",
+    "url": "/techfolio/img/theme/team-2-800x800.jpg"
   },
   {
     "revision": "54e3f3c414bd8e7234bae3ee3be950e5",
@@ -126,9 +162,5 @@ self.__precacheManifest = [
   {
     "revision": "66618a418175ddf2ac8c47a241d327a8",
     "url": "/techfolio/img/theme/team-4-800x800.jpg"
-  },
-  {
-    "revision": "be997d5226b992ffad34816870c6b7aa",
-    "url": "/techfolio/img/theme/team-2-800x800.jpg"
   }
 ];
