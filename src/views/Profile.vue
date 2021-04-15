@@ -98,8 +98,8 @@
                   through static IP.
                 </p>
                 <small>
-                  Typescript, Express.js, Google Cloud Platform - Functions, Goolgle OAuth,
-                  AWS - lambda, AWS - VPC
+                  Typescript, Express.js, Google Cloud Platform - Functions,
+                  Goolgle OAuth, AWS - lambda, AWS - VPC
                 </small>
               </div>
             </div>
@@ -113,8 +113,8 @@
                   mobile phone and push survey to database
                 </p>
                 <small>
-                  Typescript, Vue, Google Cloud Platform - Functions, Goolgle OAuth, Google
-                  Firestore
+                  Typescript, Vue, Google Cloud Platform - Functions, Goolgle
+                  OAuth, Google Firestore
                 </small>
               </div>
             </div>
@@ -128,8 +128,8 @@
                   archived in timely and secunre manner
                 </p>
                 <small>
-                  Typescript, Google Cloud Platform - Functions, Google Big Query (SQL),
-                  Goolge Cloud Storage, Microsoft Azure CosmosDB
+                  Typescript, Google Cloud Platform - Functions, Google Big
+                  Query (SQL), Goolge Cloud Storage, Microsoft Azure CosmosDB
                 </small>
               </div>
             </div>
@@ -213,7 +213,8 @@
   </div>
 </template>
 <script>
-export default {};
+export default {
+};
 </script>
 <style>
 </style>

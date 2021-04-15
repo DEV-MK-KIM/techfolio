@@ -20,6 +20,13 @@ module.exports = {
     // Enable CSS source maps.
     sourceMap: process.env.NODE_ENV !== 'production'
   },
+  chainWebpack: config => {
+    config.module
+      .rule("pdf")
+      .test(/\.pdf$/)
+      .use("file-loader")
+      .loader("file-loader");
+  },
   publicPath: '/techfolio/',
   outputDir: 'docs'
 };

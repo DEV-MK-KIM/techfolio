@@ -7,7 +7,7 @@
 
             <ul class="navbar-nav align-items-lg-center ml-lg-auto">
                 <li class="nav-item d-none d-lg-block ml-lg-4">
-                    <a href="/files/mkkim-resume.pdf" download
+                    <a :href="pdf" download
                        class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon">
                   <i class="fa fa-cloud-download mr-2"></i>
@@ -25,7 +25,12 @@ import BaseNav from "@/components/BaseNav";
 export default {
   components: {
     BaseNav,
-  }
+  },
+   data() {
+    return {
+      pdf: require("@/assets/files/mkkim-resume.pdf")
+    };
+  },
 };
 </script>
 <style>
